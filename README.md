@@ -18,6 +18,12 @@ I have also used **react-router-dom** for routing.
 
 ## Screenshots
 
+![login_page](https://user-images.githubusercontent.com/43692967/158439385-ae028347-ee9d-4fe6-b441-273b51da86df.png)
+
+![search_page](https://user-images.githubusercontent.com/43692967/158439442-163107f4-4ab3-4e9a-8296-78998e355ab2.png)
+
+---
+
 ## Setting Up Firebase
 
 - Go to this website of [Firebase](https://firebase.google.com/).
