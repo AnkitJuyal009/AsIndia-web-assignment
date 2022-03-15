@@ -1,0 +1,8 @@
+.navbar {
+  padding: 3px 5px;
+}
+
+.navbar h2 {
+    text-transform: uppercase;
+    font-size: 44px;
+}

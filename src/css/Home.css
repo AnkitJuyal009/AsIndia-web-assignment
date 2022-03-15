@@ -1,0 +1,56 @@
+.dropdown-container {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 2rem;
+    padding: 0 2rem;
+}
+
+.welcome-user {
+    text-align: center;
+    font-size: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.logout-btn {
+    display: block;
+    margin: 0 auto;
+    border: none;
+    padding: 1rem 2rem;
+    background-color: rgb(238, 31, 31);
+    font-weight: 900;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-radius: 50px;
+    margin-bottom: 2rem;
+}
+
+.logout-btn:hover {
+    background-color: rgb(247, 72, 72);
+}
+
+.input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.input-search {
+    padding: 1rem 1.5rem;
+    min-width: 400px;
+    text-align: center;
+    font-weight: 600;
+    border-radius: 30px;
+}
+
+.reset-btn {
+    border: none;
+    padding: 1rem 2rem;
+    background-color: lightgrey;
+    font-weight: 900;
+    text-transform: uppercase;
+    cursor: pointer;
+    border-radius: 50px;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}

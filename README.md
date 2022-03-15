@@ -2,6 +2,43 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+---
+
+## Overview
+
+A Web Based Project where there is authentication using **FIREBASE** and after login in with socials we have a search filter feature to filter them according to their names.
+
+Data Storage is in the form of JSON.
+
+I have also used **react-router-dom** for routing.
+
+**React Hooks** are used.
+
+---
+
+## Screenshots
+
+## Setting Up Firebase
+
+- Go to this website of [Firebase](https://firebase.google.com/).
+- On top right there is a button 'Go to Console', click on it.
+- Add Project, write project name and click on next making it all default.
+- After setting up we got authentication tab under Build category.
+
+---
+
+## Adding your credentails for authentication using firebase
+
+#### NOTE : Your credentails should be in .env file that will be in the root of the app.
+
+- Credentials will be at the project seeting under your apps category.
+
+### NOTE : For Facebook login you have to go to **facebook for developers** and add your app with APP_ID and APP_SECRET_KEY that will be there at firebase console.
+
+---
+
+### _You can fork this repo and add that .env file to run authentication properly_.
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -39,6 +76,8 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+---
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
@@ -68,3 +107,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+---
